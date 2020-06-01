@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextJsonLib", "TextJsonLib\TextJsonLib.csproj", "{87FEAC19-F9EB-4D80-AB90-505B12118DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87FEAC19-F9EB-4D80-AB90-505B12118DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FEAC19-F9EB-4D80-AB90-505B12118DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FEAC19-F9EB-4D80-AB90-505B12118DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FEAC19-F9EB-4D80-AB90-505B12118DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6095531E-2D42-40A3-95D3-56CC1BAACF25}
+	EndGlobalSection
+EndGlobal
